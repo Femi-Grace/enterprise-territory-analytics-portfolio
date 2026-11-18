@@ -96,3 +96,5 @@ I architected a zero-touch, GDPR-compliant automated data pipeline leveraging th
 To ensure non-technical outreach coordinators and executive directors could consume insights without bottlenecking data engineering capacity:
 - **Copilot-Ready Semantic Layer:** Configured explicit synonyms, clean measure descriptions, and hierarchical date/geography drill-downs inside Power BI so staff could use Microsoft Copilot / Q&A to query data in plain English (e.g., *"Show referral growth in East Surrey districts over the last two quarters"*).
 - **Accelerated Script & Formula Engineering:** Utilized Microsoft Copilot alongside Power Query (M) and DAX to streamline complex postcode validation logic and time-intelligence calculations (`SAMEPERIODLASTYEAR`, rolling 90-day engagement averages), reducing development turnaround time by over 40%.
+
+### Note: All schemas, analytical frameworks, and architectural workflows documented here reflect production methodologies I developed in my roles. No proprietary datasets, personal identifiable information (PII), or confidential organisational records are hosted in this repository.
