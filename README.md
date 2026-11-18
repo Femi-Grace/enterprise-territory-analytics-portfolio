@@ -13,7 +13,7 @@ Production data pipelines, geospatial BI architectures and statistical allocatio
 
 This repository documents the production data pipelines, analytical allocation models and automated Power BI ecosystems I designed and delivered in my roles at **Surrey County Council** and **Oakleaf**. 
 
-Across both organisations, I moved leadership away from static historical spreadsheets by building automated ETL pipelines and decision support tools—applying **supply-to-demand indexing, outlier benchmarking, geospatial white-space segmentation, and what-if scenario modelling** to eliminate resource misallocation, guarantee Day-1 fiscal readiness and drive measurable operational ROI.
+Across both organisations, I moved leadership away from static historical spreadsheets by building automated ETL pipelines and decision support tools applying **supply-to-demand indexing, outlier benchmarking, geospatial white space segmentation, and what-if scenario modelling** to eliminate resource misallocation, guarantee Day-1 fiscal readiness and drive measurable operational ROI.
 
 ---
 
@@ -33,7 +33,7 @@ A simple geographical split (dividing headcount and budgets strictly by existing
 * **Asymmetric Service Demand:** Population growth, Special Educational Needs (SEN) density, fire incident frequency and customer service case volumes were unevenly distributed across the county.
 
 ### 2. Data Architecture & Automated Validation Pipeline
-To establish a single source of truth across departments, We as a team engineered a multi-stage extraction and integrity pipeline:
+To establish a single source of truth across departments, We as a team engineered a multi stage extraction and integrity pipeline:
 
 1. **Automated Ingestion (`SSIS` & `FME`):** Built automated ETL jobs to extract raw position, payroll, school finance and operational dispatch logs from **Microsoft Unit4** into a structured staging environment.
 2. **Programmatic Integrity Auditing (`SQL` & `Excel VBA`):** Authored parameterized SQL validation queries and automated VBA auditing routines to isolate and resolve:
