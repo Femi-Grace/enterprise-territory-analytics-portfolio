@@ -13,7 +13,7 @@ Production data pipelines, geospatial BI architectures and statistical allocatio
 
 This repository documents the production data pipelines, analytical allocation models and automated Power BI ecosystems I designed and delivered in my roles at **Surrey County Council** and **Oakleaf**. 
 
-Across both organisations, I moved leadership away from static historical spreadsheets by building automated ETL pipelines and decision-support tools—applying **supply-to-demand indexing, outlier benchmarking, geospatial white-space segmentation, and what-if scenario modelling** to eliminate resource misallocation, guarantee Day-1 fiscal readiness and drive measurable operational ROI.
+Across both organisations, I moved leadership away from static historical spreadsheets by building automated ETL pipelines and decision support tools—applying **supply-to-demand indexing, outlier benchmarking, geospatial white-space segmentation, and what-if scenario modelling** to eliminate resource misallocation, guarantee Day-1 fiscal readiness and drive measurable operational ROI.
 
 ---
 
