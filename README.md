@@ -42,7 +42,7 @@ To establish a single source of truth across departments, We as a team engineere
 3. **Dual-Tag Schema Mapping:** Engineered a bridging dimension table (`Legacy_Cost_Centre` -> `New_Entity_Key: East | West`) to preserve historical year-over-year trend reporting across the April 1, 2027 cutover.
 
 ### 3. Analytical Methodology & Data Logic
-To ensure resources—including **frontline firefighters, customer service agents, school funding pools and core operational budgets**—were allocated where demand was highest rather than where legacy budgets sat, I applied three core analytical frameworks:
+To ensure resources including **frontline firefighters, customer service agents, school funding pools and core operational budgets**—were allocated where demand was highest rather than where legacy budgets sat, I applied three core analytical frameworks:
 
 #### A. Supply-to-Demand Ratio Indexing (Utilisation vs. Capacity)
 * **The Mindset:** Instead of assuming East and West needed equal budgets, I tied resource allocation directly to real-world operational triggers. For every local ward and postcode sector, I built a composite **Demand Score** combining weighted pupil and SEN headcounts, customer service inbound case volumes per 1,000 residents and historical emergency fire incident frequency.
